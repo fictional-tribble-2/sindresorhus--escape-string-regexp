@@ -1,4 +1,4 @@
-# escape-string-regexp [![Build Status](https://travis-ci.org/sindresorhus/escape-string-regexp.svg?branch=master)](https://travis-ci.org/sindresorhus/escape-string-regexp) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/sindresorhus--escape-string-regexp.svg)](https://www.staging.guardrails.io)
+# escape-string-regexp [![Build Status](https://travis-ci.org/sindresorhus/escape-string-regexp.svg?branch=master)](https://travis-ci.org/sindresorhus/escape-string-regexp) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/sindresorhus--escape-string-regexp.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/sindresorhus--escape-string-regexp.svg)](https://www.guardrails.io)
 
 > Escape RegExp special characters
 
